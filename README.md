@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## ⚡ Technologies
 
-![Neovim](https://img.shields.io/badge/-Neovim-black?style=flat&logo=Neovim)
+![Neovim](https://img.shields.io/badge/-Neovim-202e18?style=flat&logo=Neovim)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white)
