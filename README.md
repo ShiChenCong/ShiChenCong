@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 ![Neovim](https://img.shields.io/badge/-Neovim-black?style=flat&logo=Neovim)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![tailwindcss](https://img.shields.io/badge/-tailwindcss-1572B6?style=flat&logo=tailwindcss)
+![HTML](https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-1572B6?style=flat&logo=TailwindCSS)
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ShiChenCong&count_private=true&show_icons=true&include_all_commits=true)
