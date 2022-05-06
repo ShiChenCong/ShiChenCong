@@ -31,3 +31,5 @@ Here are some ideas to get you started:
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ShiChenCong.ShiChenCong)
 
+<!-- ## commits
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ShiChenCong&theme=redical)](https://github.com/ShiChenCong/github-readme-activity-graph) -->
