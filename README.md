@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hello there! I'm Scc
 
 <!--
 **ShiChenCong/ShiChenCong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+## <h3 align="left">GitHub Stats</h3>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShiChenCong&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShiChenCong&layout=compact)](https://github.com/ShiChenCong/github-readme-stats)
