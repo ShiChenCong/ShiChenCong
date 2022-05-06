@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![tailwindcss](https://img.shields.io/badge/-tailwindcss-1572B6?style=flat&logo=tailwindcss)
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ShiChenCong&count_private=true&show_icons=true&include_all_commits=true)
