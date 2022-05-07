@@ -1,4 +1,4 @@
-### Hello there! I'm Scc  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+### Hello there! I'm Scc  <img src="./wave.gif" width="30px">
 
 <!--
 **ShiChenCong/ShiChenCong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
