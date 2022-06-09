@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 ## ⚡ Technologies
 
 ![Neovim](https://img.shields.io/badge/-Neovim-202e18?style=flat&logo=Neovim)
-<!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript) -->
 ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
-<!-- ![Typescript](https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white)
+<!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js)
 ![HTML](https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-1572B6?style=flat&logo=TailwindCSS)
