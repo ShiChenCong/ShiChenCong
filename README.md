@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ![Neovim](https://img.shields.io/badge/-Neovim-202e18?style=flat&logo=Neovim)
 ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
 ![Typescript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&style=flat)
 <!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js)
