@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <!--![Github Stats](https://github-readme-stats.vercel.app/api?username=ShiChenCong&count_private=true&show_icons=true&include_all_commits=true) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShiChenCong&hide=TeX&layout=compact) -->
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ShiChenCong.ShiChenCong)
+<!--![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ShiChenCong.ShiChenCong) -->
 
 <!-- ## commits
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ShiChenCong&theme=redical)](https://github.com/ShiChenCong/github-readme-activity-graph) -->
