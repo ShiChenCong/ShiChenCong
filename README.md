@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ![Webpack](https://img.shields.io/badge/Webpack-3970ae.svg?style=flat&logo=Webpack&logoColor=1eb4ff) -->
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ShiChenCong&count_private=true&show_icons=true&include_all_commits=true)
+<!--![Github Stats](https://github-readme-stats.vercel.app/api?username=ShiChenCong&count_private=true&show_icons=true&include_all_commits=true) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShiChenCong&hide=TeX&layout=compact) -->
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ShiChenCong.ShiChenCong)
